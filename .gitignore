@@ -1,3 +1,7 @@
 # .gitignore
 .idea
+<<<<<<< HEAD
+=======
+output_sample_pictures
+>>>>>>> master
 __pycache__
